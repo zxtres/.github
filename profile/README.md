@@ -8,6 +8,6 @@ Information and documentation for ZXTRES on its [WIKI](https://github.com/zxtres
 
 [cores](https://github.com/zxtres/cores) repo contains the bit and ZX3 binaries of the cores ported to ZXTRES.
 
-Discussion groups on Telegram([this](https://t.me/zxtres) and [this](https://t.me/zxtresfpga))
+Discussion groups on Telegram([this](https://t.me/zxtres) and [that](https://t.me/zxtresfpga))
 
 When available it could be buyed at [Antonio Villena's store](https://antoniovillena.es/store/)
